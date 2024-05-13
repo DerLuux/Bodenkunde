@@ -1,7 +1,19 @@
 ---
-title: Welcome to Quartz
+title: Bodenkunde
+---
+## Definition
+
+Die Bodenkunde ist eine Wissenschaft, die sich mit der Bodenentstehung, der Bodenentwicklung, den Bodeneigenschaften, der Bodenbiologie und der Klassifizierung der Böden (durch [[Horizonte]]) befasst.
+
 ---
 
-This is a blank Quartz installation. TESTHALLOOO
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-[[Das hier ist ein Test]]
+## Grundlagen
+
+1) Böden werden von Horizonten aufgebaut (Gesamtheit der Horizonte = Solum)
+2) Horizonte entstehen durch bodenbildende Prozesse
+3) Bodenart = Korngröße/Textur; Bodentyp = Pedogenese
+
+---
+
+## Bodenklassifizierung
+
