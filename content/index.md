@@ -17,3 +17,46 @@ Die Bodenkunde ist eine Wissenschaft, die sich mit der Bodenentstehung, der Bode
 
 ## Bodenklassifizierung
 
+### Terrestrische Böden
+- [[O,C-Böden]]
+- [[Terrestrische Rohböden]]
+- [[Ah,C-Böden]]
+- [[Schwarzerden]]
+- [[Pelosole]]
+- [[Braunerden]]
+- [[Lessives]]
+- [[Podsole]]
+- [[Terrae Calcis]]
+- [[Reduktosole]]
+- [[Stauwasserböden]]
+- [[Anthropogene Böden]]
+
+### Semiterrestrische Böden
+- [[Auenböden]]
+- [[Gleye]]
+- [[Marschen]]
+
+### Semisubhydrische und Subhydrische Böden
+- [[Semisubhydrische Böden]]
+- [[Subhydrische Böden]]
+
+### [[Moore]]
+
+---
+
+## [[Horizonte]]
+
+- Organische Horizonte
+- Mineralische Horizonte
+- Vorangestellte Zusatzsymbole
+- Nachgestellte Zusatzsymbole
+
+---
+
+## Bodeneigenschaften
+
+- [[Bodenbildende Prozesse]]
+- [[Bodenfarbe]]
+- [[Bodenstruktur]]
+- [[Bodenacidität]] + Puffersysteme
+- 
