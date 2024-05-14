@@ -43,5 +43,5 @@ tags:
 - sehr dicke, un- bis wenig zersetzte Lage auf dicker mäßig zersetzter Lage auf mineralischem Boden
 - typische Böden: [[Podsole]], Stagnogley
 
-![[Pasted image 20240514164504.png]]
+
 
