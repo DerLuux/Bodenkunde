@@ -1,6 +1,6 @@
 # Lexikon der Bodenkunde
 
-> “Nur die Harten kommen in den Garten” — Ich
+> “Nur die Harten kommen in den Garten”
 
 Zur Ansicht auf https://derluux.github.io/Bodenkunde wechseln.
 
