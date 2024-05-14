@@ -4,9 +4,23 @@ draft: false
 tags:
 ---
 
-
 ---
 ## Allgemeines
+Humus ist die Gesamtheit der abgestorbenen organischen Masse im Boden. Er unterliegt vor allem der Aktivität der Bodenorganismen ([[Edaphon]]), die durch ihren Stoffwechsel laufend zum Auf-, Um- oder Abbau des Humus beitragen. Im Laufe der Humifizierung entstehen [[Huminstoffe]].
+
+---
+
+## Entstehung von Humus
+
+### Zersetzung
+1. biochemische Initialphase
+2. mechanische Zerkleinerung
+3. mikrobieller Aufbau 
+(?)
+### Mineralisierung
+
+
+### Humifizierung
 
 
 ---
@@ -43,5 +57,5 @@ tags:
 - sehr dicke, un- bis wenig zersetzte Lage auf dicker mäßig zersetzter Lage auf mineralischem Boden
 - typische Böden: [[Podsole]], Stagnogley
 
-
-
+---
+## Huminstoffe
