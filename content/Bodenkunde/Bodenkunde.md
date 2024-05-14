@@ -61,4 +61,5 @@ Die Bodenkunde ist eine Wissenschaft, die sich mit der Bodenentstehung, der Bode
 - [[Bodenfarbe]]
 - [[Bodenstruktur]]
 - [[Bodenacidität]] + Puffersysteme
--  
+- [[Humus]]
+- 
